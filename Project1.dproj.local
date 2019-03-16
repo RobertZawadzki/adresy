@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.383,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,=D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\PROJEKTY\Test01\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,D:\Dropbox\Robert\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.15 15:47:21.708,=C:\PROJEKTY\Test01\Unit2.pas</Transaction>
+    <Transaction>2019.03.16 12:00:32.016,C:\PROJEKTY\Test01\Umain.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:00:32.016,C:\PROJEKTY\Test01\Umain.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>2019.03.16 12:00:51.762,C:\PROJEKTY\Test01\Unowy_edit.dfm=C:\PROJEKTY\Test01\Unit2.dfm</Transaction>
+    <Transaction>2019.03.16 12:00:51.762,C:\PROJEKTY\Test01\Unowy_edit.pas=C:\PROJEKTY\Test01\Unit2.pas</Transaction>
+    <Transaction>2019.03.16 12:17:15.047,=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:17:42.355,C:\PROJEKTY\Test01\Uhistoria.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:17:42.355,C:\PROJEKTY\Test01\Uhistoria.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>2019.03.16 12:24:08.409,=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:24:39.837,C:\PROJEKTY\Test01\UDataModule.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:24:39.837,C:\PROJEKTY\Test01\UDataModule.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>2019.03.16 12:46:36.784,=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:47:11.326,C:\PROJEKTY\Test01\Uuzytkownicy.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>2019.03.16 12:47:11.326,C:\PROJEKTY\Test01\Uuzytkownicy.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:55:30.915,=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:59:01.887,C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.dfm=C:\PROJEKTY\Test01\Unit1.dfm</Transaction>
+    <Transaction>2019.03.16 12:59:01.887,C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.pas=C:\PROJEKTY\Test01\Unit1.pas</Transaction>
+    <Transaction>2019.03.16 12:59:39.183,C:\PROJEKTY\Test01\Unowy_edit_adresy.pas=C:\PROJEKTY\Test01\Unowy_edit.pas</Transaction>
+    <Transaction>2019.03.16 12:59:39.183,C:\PROJEKTY\Test01\Unowy_edit_adresy.dfm=C:\PROJEKTY\Test01\Unowy_edit.dfm</Transaction>
+    <Transaction>2019.03.16 13:01:53.897,C:\PROJEKTY\Test01\Unowy_edit_uzytkownicy.dfm=C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.dfm</Transaction>
+    <Transaction>2019.03.16 13:01:53.897,C:\PROJEKTY\Test01\Unowy_edit_uzytkownicy.pas=C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.pas</Transaction>
+    <Transaction>2019.03.16 13:04:18.158,C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.pas=C:\PROJEKTY\Test01\Unowy_edit_uzytkownicy.pas</Transaction>
+    <Transaction>2019.03.16 13:04:18.158,C:\PROJEKTY\Test01\Unowy_edit_uzytkownik.dfm=C:\PROJEKTY\Test01\Unowy_edit_uzytkownicy.dfm</Transaction>
+    <Transaction>2019.03.16 13:04:24.692,C:\PROJEKTY\Test01\Unowy_edit_adres.pas=C:\PROJEKTY\Test01\Unowy_edit_adresy.pas</Transaction>
+    <Transaction>2019.03.16 13:04:24.692,C:\PROJEKTY\Test01\Unowy_edit_adres.dfm=C:\PROJEKTY\Test01\Unowy_edit_adresy.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

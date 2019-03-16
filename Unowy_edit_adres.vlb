@@ -1,0 +1,14 @@
+﻿[btnzapisz]
+Coordinates=180,10,61,51
+
+[btnanuluj]
+Coordinates=251,10,60,51
+
+[]
+Coordinates=321,10,74,33
+Visible=True
+
+[main.]
+Coordinates=10,10,90,33
+Visible=False
+
